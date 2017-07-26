@@ -12,7 +12,6 @@ public class Item {
     private int stockQuantity;
 
     public Item(int itemId, String barCode, String name, float sellPrice, float buyPrice, int stockQuantity) {
-    //mene change kiya
         this.itemId = itemId;
         this.barCode = barCode;
         this.name = name;
